@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  day02:
+    image: swipl:latest
+    working_dir: /app
+    volumes:
+      - "./day02:/app"

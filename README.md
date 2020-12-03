@@ -9,7 +9,7 @@ I have a list of more than 24 language and choose a new language every day while
 [X] [Assembler](day01/README.md)
 [ ] Fortran
 [ ] SQL
-[ ] Prolog
+[X] [Prolog](day02/README.md)
 [ ] Ada
 [ ] Excel
 [ ] Lisp
