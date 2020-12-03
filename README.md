@@ -1,40 +1,44 @@
 # ⭐ Advent of Code 2020 🎄
 
-[Advent of Code](https://adventofcode.com) solutions in a new language for every day.
+[Advent of Code](https://adventofcode.com) solutions in a new language every day.
+
+I have a list of more than 24 language and choose a new language every day while trying to avoid the easier ones that I have already used before.
+
+I will try to either rely on standard tools like gcc that should be installed on every machine or provide for example a docker setup that makes every day easily runnable.
+
+## Languages Completed
+- [X] [Assembler (Day 1)](day01)
+- [X] [Prolog (Day 2)](day02)
+- [X] [Excel (Day 3)](day03)
 
 ## Languages Planned
 
-I have a list of more than 24 language and choose a new language every day while trying to avoid the easier ones.
-
-- [X] [Assembler](day01)
-- [ ] Fortran
-- [ ] SQL
-- [X] [Prolog](day02)
 - [ ] Ada
-- [X] [Excel](day03)
-- [ ] Lisp
-- [ ] Zig
-- [ ] Haskell
-- [ ] VisualBasic
-- [ ] PHP
-- [ ] Nim
-- [ ] F#
 - [ ] C
-- [ ] D
+- [ ] C#
 - [ ] C++
-- [ ] Rust
+- [ ] Compiletime C++ Template
+- [ ] D
 - [ ] Dart
 - [ ] Erlang
-- [ ] Compiletime C++ Template
-- [ ] Makefile
-- [ ] Perl
-- [ ] Pascal
-- [ ] R
-- [ ] Objective C
-- [ ] Swift
-- [ ] C#
-- [ ] Ruby
+- [ ] F#
+- [ ] Fortran
+- [ ] Haskell
+- [ ] Java
 - [ ] Javascript
 - [ ] Kotlin
-- [ ] Java
+- [ ] Lisp
+- [ ] Makefile
+- [ ] Nim
+- [ ] Objective C
+- [ ] Pascal
+- [ ] Perl
 - [ ] Python
+- [ ] PHP
+- [ ] R
+- [ ] Ruby
+- [ ] Rust
+- [ ] SQL
+- [ ] Swift
+- [ ] VisualBasic
+- [ ] Zig
