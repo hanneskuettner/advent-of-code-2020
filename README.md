@@ -11,7 +11,7 @@ I have a list of more than 24 language and choose a new language every day while
 - [ ] SQL
 - [X] [Prolog](day02)
 - [ ] Ada
-- [ ] Excel
+- [X] [Excel](day03)
 - [ ] Lisp
 - [ ] Zig
 - [ ] Haskell
