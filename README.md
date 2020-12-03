@@ -23,6 +23,14 @@ I have a list of more than 24 language and choose a new language every day while
 - [ ] D
 - [ ] C++
 - [ ] Rust
+- [ ] Dart
+- [ ] Erlang
+- [ ] Compiletime C++ Template
+- [ ] Makefile
+- [ ] Perl
+- [ ] Pascal
+- [ ] R
+- [ ] Objective C
 - [ ] Swift
 - [ ] C#
 - [ ] Ruby
